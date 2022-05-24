@@ -1,0 +1,20 @@
+void main() {
+
+  //numbers: int
+  int score = 23;
+  
+  //numbers: double
+  double percentage = 93.4;
+  
+  //string
+  String name = "Henry";
+  
+  //boolean
+  bool isValid = true;
+  
+  print(score);
+  print(percentage);
+  print(name);
+  print(isValid);
+  
+}
