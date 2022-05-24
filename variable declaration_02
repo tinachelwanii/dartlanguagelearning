@@ -1,0 +1,23 @@
+void main() {
+
+  //numbers: int
+  var score = 23; //It is inferred as integer automatically by compiler
+  
+  //numbers: double
+  double percentage = 93.4;
+  
+  //string
+  var name = "Henry";
+  
+  //boolean
+  var isValid = true;
+  
+  print(score);
+  print(percentage);
+  print(name);
+  print(isValid);
+  
+  // NOTE: All data types in Dart are Objects.
+  // Therefore, their initial value is by default 'null'
+  
+}
